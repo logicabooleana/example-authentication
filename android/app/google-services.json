@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "765447822313",
+    "project_id": "pruebas-e56c9",
+    "storage_bucket": "pruebas-e56c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765447822313:android:a80bff2fbecee8ad758978",
+        "android_client_info": {
+          "package_name": "com.logicabooleana.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765447822313-nbg6cfv03143p9ngmmclm9de37otla6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logicabooleana.authentication",
+            "certificate_hash": "74ded0e2172301d48f1e17710e829523e26cc0bf"
+          }
+        },
+        {
+          "client_id": "765447822313-ojfon71omqeag3s1qvt5n63ukq71qlns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1VCLowuRQ0JSuUOa1bcN2O1K4IkOquw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765447822313-ojfon71omqeag3s1qvt5n63ukq71qlns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765447822313:android:7ec3cd3d014982b8758978",
+        "android_client_info": {
+          "package_name": "com.logicabooleana.flutterfirebasegetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765447822313-9b7isc3q29nes8r7d7hvl497j7cdkgl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logicabooleana.flutterfirebasegetx",
+            "certificate_hash": "362754dc45d99c716caf710380299d87f34b5ebc"
+          }
+        },
+        {
+          "client_id": "765447822313-d70tvmjusbt242mgtfeg6cd7510hkad7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logicabooleana.flutterfirebasegetx",
+            "certificate_hash": "94c1af80a6da454536c8d84dd92cd74cf3516580"
+          }
+        },
+        {
+          "client_id": "765447822313-ojfon71omqeag3s1qvt5n63ukq71qlns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1VCLowuRQ0JSuUOa1bcN2O1K4IkOquw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765447822313-ojfon71omqeag3s1qvt5n63ukq71qlns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
